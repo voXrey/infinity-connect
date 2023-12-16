@@ -1,4 +1,5 @@
 # Infinity-Connect - PowerN
+<img src="./infinity-connect.png" alt="logo" width="200"/>
 
 ## User Guide
 
