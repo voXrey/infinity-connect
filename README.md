@@ -1,6 +1,19 @@
 # Infinity-Connect - PowerN
 <img src="./infinity-connect.png" alt="logo" width="200"/>
 
+---  
+A connect-N with an “infinity” of checkers to place, is played in 2v2.  
+---  
+
+## Gameplay sources
+
+**Menus on my github**  
+![image](https://github.com/voXrey/infinity-connect/assets/72698969/f9dffbf9-d7f4-4a53-abef-54a503dcca3b)  
+![image](https://github.com/voXrey/infinity-connect/assets/72698969/29f45a9f-3748-4c0f-b510-05db4b557c50)  
+![image](https://github.com/voXrey/infinity-connect/assets/72698969/fc9cc08b-8802-4cdb-b10f-bdcfafb60d8e)  
+And a [video](https://github.com/voXrey/infinity-connect/assets/72698969/d554234b-9f70-48bf-8928-b0739a0409db)
+
+
 ## User Guide
 
 ### 1. RULES
