@@ -1,5 +1,10 @@
 # Infinity-Connect - PowerN
 
+## Install
+* Download files
+* `make`  
+* `./pow`  
+
 ## User Guide
 
 ### 1. RULES
